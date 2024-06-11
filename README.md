@@ -1,3 +1,3 @@
 # docker-genai-sample
 
-A simple GenAI app for [Docker's Docs](https://docs.docker.com/) based on the [GenAI Stack](https://github.com/docker/genai-stack) PDF Reader application.
+The application uses LangChain for orchestration, Streamlit for the UI, Ollama to run the LLM, and Neo4j to store vectors.
